@@ -4,7 +4,7 @@ title: I'm John Mortensen
 hide: true
 ---
 
-Hi! My name is [Your Full Name]
+Hi! My name is John Mortensen
 
 ### Development Environment
 
